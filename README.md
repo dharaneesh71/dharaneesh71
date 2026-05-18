@@ -25,7 +25,7 @@
   <tr>
     <td align="center">
       <h3>✨ Open to New Opportunities in AI / ML Engineering</h3>
-      <p>📍 Alexandria, VA &nbsp;·&nbsp; 🎓 M.Eng CS @ Virginia Tech (GPA 3.8 / 4.0)</p>
+      <p>📍 Alexandria, VA &nbsp;·&nbsp; 🎓 Masters in CS @ Virginia Tech (GPA 3.8 / 4.0)</p>
     </td>
   </tr>
 </table>
