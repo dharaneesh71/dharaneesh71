@@ -1,6 +1,6 @@
 <!-- HEADER BANNER · midnight purple gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:533483,100:0f3460&height=220&section=header&text=Dharaneesh%20CKV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20M.Eng%20%40%20Virginia%20Tech&descSize=18&descAlignY=60&descAlign=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:533483,100:0f3460&height=220&section=header&text=Dharaneesh%20CKV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Masters%20%40%20Virginia%20Tech&descSize=18&descAlignY=60&descAlign=50" alt="header"/>
 </p>
 
 <!-- ANIMATED TAGLINE · purple to match -->
