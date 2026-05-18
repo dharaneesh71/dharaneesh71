@@ -40,7 +40,7 @@ I'm a graduate student at **Virginia Tech** with hands-on industry experience bu
 class Dharaneesh:
     def __init__(self):
         self.role     = "AI / ML Engineer"
-        self.school   = "Virginia Tech · M.Eng Computer Science"
+        self.school   = "Virginia Tech · Masters in Computer Science"
         self.location = "Alexandria, VA"
         self.focus    = ["LLM Systems", "RAG Pipelines", "Federated Learning", "Computer Vision"]
         self.stack    = ["Python", "PyTorch", "LangChain", "Docker", "Kubernetes", "AWS"]
