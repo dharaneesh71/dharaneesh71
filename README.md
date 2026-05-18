@@ -6,7 +6,7 @@
 <!-- ANIMATED TAGLINE · purple to match -->
 <p align="center">
   <a href="https://github.com/dharaneesh71">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=BB86FC&center=true&vCenter=true&width=620&lines=Building+LLM+%26+RAG+systems;Shipping+production+ML+pipelines;Privacy-preserving+Federated+Learning;Open+to+Summer+2026+Internships+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=BB86FC&center=true&vCenter=true&width=620&lines=Building+LLM+%26+RAG+systems;Shipping+production+ML+pipelines;Privacy-preserving+Federated+Learning;Open+to+new+opportunities+%E2%9C%A8" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -24,8 +24,8 @@
 <table align="center">
   <tr>
     <td align="center">
-      <h3>🎯 Open to Summer 2026 Internships — AI / ML Engineering</h3>
-      <p>📍 Alexandria, VA &nbsp;·&nbsp; 🎓 M.Eng CS @ Virginia Tech (GPA 3.8 / 4.0) &nbsp;·&nbsp; 🇺🇸 F-1 / CPT / OPT</p>
+      <h3>✨ Open to New Opportunities in AI / ML Engineering</h3>
+      <p>📍 Alexandria, VA &nbsp;·&nbsp; 🎓 M.Eng CS @ Virginia Tech (GPA 3.8 / 4.0)</p>
     </td>
   </tr>
 </table>
@@ -34,7 +34,7 @@
 
 ### 👨‍💻 About me
 
-I'm a graduate student at **Virginia Tech** with hands-on industry experience building **LLM pipelines, RAG systems, and production ML platforms**. I care about shipping AI that's reliable, low-latency, and measurable — not just demos.
+I'm a graduate student at **Virginia Tech** with hands-on industry experience building **LLM pipelines, RAG systems, and production ML platforms**. I care about shipping AI that's reliable, low latency, and measurable, not just demos.
 
 ```python
 class Dharaneesh:
@@ -44,7 +44,7 @@ class Dharaneesh:
         self.location = "Alexandria, VA"
         self.focus    = ["LLM Systems", "RAG Pipelines", "Federated Learning", "Computer Vision"]
         self.stack    = ["Python", "PyTorch", "LangChain", "Docker", "Kubernetes", "AWS"]
-        self.status   = "Seeking Summer 2026 Internship 🚀"
+        self.status   = "Open to new opportunities ✨"
 
     def current_obsession(self):
         return "Agentic AI, LangGraph, and evaluation harnesses for RAG"
@@ -54,10 +54,10 @@ class Dharaneesh:
 
 ### 🔭 What I'm working on right now
 
-- 🛡️ &nbsp;**Commonwealth Cyber Initiative (CCI)** — *Software Development Intern.* Engineering a scalable data platform with OpenStack auth and RBAC. Shipped **10+ production releases**; CI/CD work cut release cycles by **~60%**.
-- 🤖 &nbsp;**Boeing** *(Aug – Dec 2025)* — Built a low-latency **RAG pipeline** integrating LLMs with vector databases, plus a confidence-scoring framework that lifted output reliability by **~35%**.
-- 🔬 &nbsp;**Federated Learning research** — Privacy-preserving FL with differential privacy on medical imaging — **94.5% accuracy** under strict DP constraints.
-- 🌱 &nbsp;**Exploring** — Agentic AI, LangGraph, multi-hop retrieval, and RAG evaluation harnesses.
+- 🛡️ &nbsp;**Commonwealth Cyber Initiative (CCI)**, *Software Development Intern.* Engineering a scalable data platform with OpenStack auth and RBAC. Shipped **10+ production releases**, and CI/CD work cut release cycles by about **60%**.
+- 🤖 &nbsp;**Boeing** *(Aug to Dec 2025)*. Built a low latency **RAG pipeline** integrating LLMs with vector databases, plus a confidence scoring framework that lifted output reliability by about **35%**.
+- 🔬 &nbsp;**Federated Learning research.** Privacy preserving FL with differential privacy on medical imaging, reaching **94.5% accuracy** under strict DP constraints.
+- 🌱 &nbsp;Currently exploring Agentic AI, LangGraph, multi hop retrieval, and RAG evaluation harnesses.
 
 ---
 
@@ -72,22 +72,22 @@ class Dharaneesh:
   <tr>
     <td><b>AI Financial Document Intelligence</b></td>
     <td>LLM + RAG system for automated extraction, structuring, and classification of financial documents</td>
-    <td>🎯 <b>95% accuracy</b><br>🏆 Finalist · 200+ teams</td>
+    <td>🎯 <b>95% accuracy</b><br>🏆 Finalist among 200+ teams</td>
   </tr>
   <tr>
     <td><b>Real-Time Drone & Intrusion Detection</b></td>
     <td>Aerial surveillance pipeline using YOLOv8 + ResNet50 with optimized inference</td>
-    <td>🎯 <b>92% validation accuracy</b><br>⚡ −45% inference latency</td>
+    <td>🎯 <b>92% validation accuracy</b><br>⚡ 45% lower inference latency</td>
   </tr>
   <tr>
     <td><b>Federated Learning for Healthcare (DP)</b></td>
-    <td>Privacy-preserving FL with differential privacy on medical imaging</td>
+    <td>Privacy preserving FL with differential privacy on medical imaging</td>
     <td>🎯 <b>94.5% accuracy</b><br>🔒 1.15 test loss under strict DP</td>
   </tr>
   <tr>
-    <td><b>Multi-Keyword Spotting (Samsung PRISM)</b></td>
-    <td>RNN-based real-time keyword spotting on embedded devices</td>
-    <td>🎯 <b>88% val accuracy</b><br>📉 −22% false acceptance · −30% latency</td>
+    <td><b>Multi Keyword Spotting (Samsung PRISM)</b></td>
+    <td>RNN based real time keyword spotting on embedded devices</td>
+    <td>🎯 <b>88% val accuracy</b><br>📉 22% lower false acceptance, 30% lower latency</td>
   </tr>
 </table>
 
@@ -95,11 +95,11 @@ class Dharaneesh:
 
 ### 📚 Published Research
 
-> 📄 &nbsp;**FL-Based Privacy-Preserving Brain Tumor Detection** — *IEEE SILCON* · 97% accuracy via federated learning
+> 📄 &nbsp;**FL Based Privacy Preserving Brain Tumor Detection** in *IEEE SILCON*. Reached 97% accuracy via federated learning.
 > 
-> 📄 &nbsp;**Bio-Secure Authentication Framework** — *IEEE* · +28% accuracy, −30% spoofing risk using AES-256
+> 📄 &nbsp;**Bio Secure Authentication Framework** in *IEEE*. Improved accuracy by 28% and reduced spoofing risk by 30% using AES-256.
 > 
-> 📄 &nbsp;**RONI & TRIM Defenses against FL Backdoor Attacks** — *AA Balkema* · +6.4% robustness
+> 📄 &nbsp;**RONI and TRIM Based Defenses for FL Backdoor Attacks** in *AA Balkema*. Improved backdoor attack robustness by 6.4%.
 
 ---
 
@@ -155,7 +155,7 @@ class Dharaneesh:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharaneesh71&bg_color=1a1a2e&color=BB86FC&line=BB86FC&point=ffffff&area=true&hide_border=true" alt="activity graph" width="92%"/>
 </p>
 
-<!-- SNAKE ANIMATION · the closest thing to a "background video" on GitHub -->
+<!-- SNAKE ANIMATION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/dharaneesh71/dharaneesh71/output/github-contribution-grid-snake-dark.svg" alt="snake animation eating contributions"/>
 </p>
@@ -168,6 +168,6 @@ class Dharaneesh:
 </p>
 
 <p align="center">
-  <i>Hiring for Summer 2026? I'd love to chat about how I can ship impact on day one.</i><br><br>
+  <i>Have a role or project in mind? I'd love to hear about it.</i><br><br>
   📫 <a href="mailto:dharaneesh@vt.edu"><b>dharaneesh@vt.edu</b></a> &nbsp;·&nbsp; 🔗 <a href="https://linkedin.com/in/dharaneesh-ckv"><b>LinkedIn</b></a>
 </p>
