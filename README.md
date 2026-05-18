@@ -13,7 +13,7 @@
 <!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://linkedin.com/in/dharaneesh-ckv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:dharaneesh@vt.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:dharaneesh7001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/dharaneesh71"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Location-Alexandria,%20VA-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
@@ -169,5 +169,5 @@ class Dharaneesh:
 
 <p align="center">
   <i>Have a role or project in mind? I'd love to hear about it.</i><br><br>
-  📫 <a href="mailto:dharaneesh@vt.edu"><b>dharaneesh@vt.edu</b></a> &nbsp;·&nbsp; 🔗 <a href="https://linkedin.com/in/dharaneesh-ckv"><b>LinkedIn</b></a>
+  📫 <a href="mailto:dharaneesh7001@gmail.com"><b>dharaneesh7001@gmail.com</b></a> &nbsp;·&nbsp; 🔗 <a href="https://linkedin.com/in/dharaneesh-ckv"><b>LinkedIn</b></a>
 </p>
